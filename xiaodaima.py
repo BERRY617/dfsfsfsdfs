@@ -1,1 +1,3 @@
-wozhend1haoxiangzaihuowbainian
+wozhend1haoxiangzaihuowbainianwozhend1haoxiangzaihuowbainian = "wozhend1haoxiangzaihuowbainian"
+# 或者直接打印字符串
+print("wozhend1haoxiangzaihuowbainian")
